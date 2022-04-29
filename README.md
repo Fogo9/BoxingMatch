@@ -2,15 +2,15 @@
 
 # **BOXING MATCH**
 
-# **Information**
+## **INFORMATION**
 
 * **Boxing match: A match played in which two specific people hurt each other and block the damage from each other.**
 
-# **Technologies Used**
+## **TECHNOLOGIES USED**
 
 * **JAVA**
 
-# **Contents**
+## **CONTENTS**
 
 * **Fighter** and **Match** class information has been created.
 
@@ -26,9 +26,7 @@
 
 * Fighter Olivia : Damage = 20, Health = 120, Weight = 100 and Dodge = 30.
 
-<br />
-
-# **Codes**
+## **CODES**
 
 ```Java
 
@@ -311,13 +309,13 @@
 
 <br />
 
-# **LINK**
+## **LINK**
 
 * Click here https://github.com/Fogo9/BoxingMatch.git to access the Github page for this project.
 
 <br />
 
-# **LICENSE**
+## **LICENSE**
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
