@@ -310,7 +310,7 @@
 
 <br />
 
-## **LINK**
+## LINK
 
 * Click here https://github.com/Fogo9/BoxingMatch.git to access the Github page for this project.
 
