@@ -7,7 +7,7 @@
 
 * **Boxing match: A match played in which two specific people hurt each other and block the damage from each other.**
 
-## TECHNOLOGIES USED
+### TECHNOLOGIES USED
 
 * **JAVA**
 
