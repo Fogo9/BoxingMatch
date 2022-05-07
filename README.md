@@ -316,7 +316,7 @@
 
 <br />
 
-## **LICENSE**
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
