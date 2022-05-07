@@ -11,7 +11,7 @@
 
 * **JAVA**
 
-## **CONTENTS**
+## CONTENTS
 
 * **Fighter** and **Match** class information has been created.
 
