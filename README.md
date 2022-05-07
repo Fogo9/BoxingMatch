@@ -3,7 +3,7 @@
 
 # **BOXING MATCH**
 
-## INFORMATION
+### INFORMATION
 
 * **Boxing match: A match played in which two specific people hurt each other and block the damage from each other.**
 
